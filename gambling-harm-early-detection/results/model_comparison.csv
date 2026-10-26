@@ -1,4 +1,0 @@
-model,AUC,precision@top20%,recall@top20%
-Rule baseline,0.644,0.725,0.29
-Logistic regression,0.693,0.74,0.296
-LightGBM,0.669,0.69,0.276
