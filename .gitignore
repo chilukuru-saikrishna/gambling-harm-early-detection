@@ -1,0 +1,9 @@
+# Never commit the raw bwin data (redistributed only by the Transparency Project)
+data/
+*.sas7bdat
+*.sav
+*.csv
+!results/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
